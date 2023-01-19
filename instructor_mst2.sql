@@ -1,0 +1,1 @@
+ SELECT * FROM db_study2_explane.instructor_mst;
