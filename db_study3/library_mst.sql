@@ -1,4 +1,4 @@
-SELECT * FROM db_study3.library_mst;
+SELECT * FROM db_study3.library_mst order by 순번 desc ;
 
 select
 *
@@ -87,6 +87,7 @@ order by
  저작자 in (select author_id from author_mst where author_name like '%김주%');
  
  show profiles;
+ 
   
 
   
