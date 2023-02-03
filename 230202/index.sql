@@ -1,4 +1,4 @@
-CREATE INDEX product_id on product_mst(product_code); -- 프라이ㅣ머리키 잡기
+CREATE INDEX product_id on product_mst(product_code); -- 프라이머리키 잡기
 
 show index from product_mst;
 
