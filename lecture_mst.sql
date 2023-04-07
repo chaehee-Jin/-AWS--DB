@@ -1,0 +1,1 @@
+SELECT * FROM lecture.lecture_mst;
