@@ -1,0 +1,1 @@
+SELECT * FROM book_management.role_tb;
