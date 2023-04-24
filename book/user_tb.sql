@@ -1,0 +1,1 @@
+SELECT * FROM book_management.user_tb;
